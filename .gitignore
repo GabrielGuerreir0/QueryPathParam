@@ -1,0 +1,28 @@
+# Ignorar a pasta da virtual environment
+venv/
+env/
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Configurações específicas de IDEs
+.vscode/
+.idea/
+
+# Arquivos de logs
+*.log
+
+# Arquivos de banco de dados SQLite
+*.sqlite3
+
+# Arquivos de ambiente
+.env
+.env.*
+
+# Arquivos de pacotes
+*.egg-info/
+dist/
+build/
